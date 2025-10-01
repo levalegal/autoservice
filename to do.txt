@@ -1,0 +1,7 @@
+тз задание 
+Пояснительная 
+Диаграммы 
+фотки интерфейса 
+дописать сам код пару приколов 
+обьяснить фул + TXT 
+pyinstaller --onefile --windowed --add-data "images;images" main.py
